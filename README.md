@@ -51,7 +51,7 @@ Data-Analyst-Assessment
 
 ## Dataset
 
-Use the **train.csv** file located in the `datasets` folder.
+Use the **data.csv** file located in the `datasets` folder.
 
 ---
 
