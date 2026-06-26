@@ -27,7 +27,7 @@ Data-Analyst-Assessment
 ├── README.md
 │
 ├── datasets
-│   └── train.csv
+│   └── data.csv
 │
 ├── tasks
 │   ├── Task-01-EDA.md
@@ -43,8 +43,6 @@ Data-Analyst-Assessment
 │       ├── report.pdf
 │       ├── requirements.txt
 │       └── README.md
-│
-└── images
 ```
 
 ---
